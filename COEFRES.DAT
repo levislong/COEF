@@ -1,20 +1,20 @@
 Name des Schiffes: Mariner      
 
-  Aw=   2650.15894        Xw=  -5.92302561        Verd.=   16854.0840        GML=   198.896805    
+  Aw=   2650.15894        Xw=  -5.92302561        Verd.=   16854.0840        GML=   198.896790    
 
 
  Founde Number Fn=  0.200000003    
  Depth Founde Number Fnh=  0.310056448    
  Depth-Draft ratio VER=   9.00000000    
- Absenkung DD=   7.67290294E-02
- Vertrimmung SITA(grad)=   2.21099658E-03
+ Absenkung DD=   7.67290443E-02
+ Vertrimmung SITA(grad)=   2.21099914E-03
 
  IMAXV=10
- M22'+M'=   1.57175940E-02    M22'=   7.62990862E-03    M'=   8.08768533E-03
- Yv'=  -1.12990430E-02    Ndv'=   3.23943968E-05    Nv'=  -3.66477692E-03
- IMAXR=12
- M66'+Izz'=   8.98424420E-04    M66'=   5.25376585E-04    Izz'=   3.73047835E-04
- Yr'=   3.13457428E-03    Ydr'=   8.77103594E-06    Nr'=  -1.61931280E-03
+ M22'+M'=   1.55917248E-02    M22'=   7.50404270E-03    M'=   8.08768161E-03
+ Yv'=  -9.79525317E-03    Ndv'=   2.97291735E-05    Nv'=  -3.66959744E-03
+ IMAXR=10
+ M66'+Izz'=   8.99159350E-04    M66'=   5.26111398E-04    Izz'=   3.73047951E-04
+ Yr'=   3.64935794E-03    Ydr'=   2.38656066E-05    Nr'=  -1.63280743E-03
 
- VL=  0.324344009        RL=  0.326928437        CL=RL-VL=   2.58442760E-03
- Das Schiff ist gierstabil.
+ VL=  0.374630183        RL=  0.367888331        CL=RL-VL=  -6.74185157E-03
+ Das Schiff ist gierinstabil !
